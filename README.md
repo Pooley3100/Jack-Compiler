@@ -1,5 +1,5 @@
 # Jack-Compiler
-Compile created in C for the Jack Language
+Compiler created in C for the Jack Language (Moved over from GitLab)
 
 Uses 
 - parser.c
